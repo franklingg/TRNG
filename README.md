@@ -9,7 +9,7 @@ This software uses the following Libraries:
 1. <a href= "https://github.com/RandomOrg/JSON-RPC-Java">JSON-RPC-Java</a> : To get data from RANDOM.org
 2. <a href= "https://www.fourmilab.ch/hotbits/source/randomX/randomX.html">randomX</a> : Java package to get data from HotBits
 
-** Please notice that JSON-RPC also has <a href="https://github.com/RandomOrg/JSON-RPC-Java#installation">requirements</a> that you must install
+** Please notice that JSON-RPC also has <a href="https://github.com/RandomOrg/JSON-RPC-Java#installation">requirements</a> that must be installed
 
 ### ⛏️ Features <a name = "Features"></a>
 
